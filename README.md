@@ -11,6 +11,7 @@ pip install flask_sqlalchemy
 ```
 After that, the project is ready to go but if you want to change something you must delete the instance folder then put your changes and write:
 ```
+python
 from main import app, db
 app.app_context().push()
 db.create_all()
