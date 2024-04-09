@@ -1,7 +1,9 @@
 # About the project
+
 This is a simple diary in python that uses flask and sqlalchemy to do a page when you can write some things.
 
-#Setup 
+# Setup 
+
 write in terminal:
 ```
 pip install flask
